@@ -1,0 +1,15 @@
+namespace: senhasegura
+name: pam
+version: 1.0.0
+readme: README.md
+authors:
+  - "Lucas Fraga (@lfraga)"
+  - "James Miranda (@jameswpm)"
+description: senhasegura Privileged Access Management Ansible collection
+license:
+- "MIT"
+tags:
+  - senhasegura
+  - pam
+  - privilege_access_management
+repository: "https://github.com/senhasegura/ansible-pam-collection"

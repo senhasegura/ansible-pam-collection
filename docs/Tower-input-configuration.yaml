@@ -1,0 +1,16 @@
+fields:
+  - id: senhasegura_url
+    type: string
+    label: senhasegura URL
+  - id: senhasegura_client_id
+    type: string
+    label: Client ID
+    secret: true
+  - id: senhasegura_client_secret
+    type: string
+    label: Client Secret
+    secret: true
+required:
+  - senhasegura_url
+  - senhasegura_client_id
+  - senhasegura_client_secret  

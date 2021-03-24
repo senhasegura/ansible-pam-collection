@@ -1,0 +1,4 @@
+env:
+  SENHASEGURA_CLIENT_ID: '{{ senhasegura_client_id }}'
+  SENHASEGURA_CLIENT_SECRET: '{{ senhasegura_client_secret }}'
+  SENHASEGURA_URL: '{{ senhasegura_url }}'
